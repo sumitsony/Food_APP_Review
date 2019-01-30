@@ -1,3 +1,11 @@
+This case study will cover two things:
+
+1. All Basic steps to train few important classification models such as Gaussian NB, Logistic Regression, 
+Decision tree, Gradient Boosting and Random Forest
+2. Usage of popular metrices in clssification such as #Accuracy, Precision, Recall, F1 Score, Confusion Matrix   
+
+Additionally, you will also learn about how to plot the ROC curve.
+
 # Food_APP_Review
 Data Analytics Good revenues Poor reviews &lt;Smart Cube Case Study 2018>
 A global restaurant search and discovery service provider CEO is in discussion with the COO, 
