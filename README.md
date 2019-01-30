@@ -36,4 +36,4 @@ Note- Output 1, 2, and 3 should be presented in MS-Excel file, with each tab ans
 ### to get positions in JPMC (JP Morgan and Chase) data science division :) 
 
 We will try to find some driving force through important feature extraction that tree based algos like 
-random forest and Xgboost does seamlessly.
+random forest and gradient boosting ( I will cover XGB in another notebook) does seamlessly.
